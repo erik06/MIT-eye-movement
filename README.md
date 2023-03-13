@@ -2,11 +2,20 @@
 
 This is a simple JS application that uses native browser API's to track your mouse movement and update the eyeballs - your browser is watching!!
 
-### Improvements
+## Requirements
+
+- Node JS
+
+## How to run
+
+- git clone this repository
+- in the root of this project run `npx live-server`
+
+## Improvements
 
 - Add expressive eyebrows that react to the mouse movements
 
-#### MIT License
+### MIT License
 
 Copyright 2023 Erik Slagter
 
